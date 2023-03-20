@@ -1,4 +1,4 @@
-# Oasis
+# CAISO OASIS
 Pulls day ahead LMP prices for a given year and node from CAISO's Oasis platform.
 
 A list of the node names can be seen on the drop down at this link: http://oasis.caiso.com/mrioasis/logon.do
